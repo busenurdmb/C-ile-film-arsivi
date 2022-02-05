@@ -1,0 +1,12 @@
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe.config
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.pdb
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Form1.resources
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.exe
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.pdb
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Frmgiriş.resources
+C:\Users\BUSE NUR\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.frmekle.resources
